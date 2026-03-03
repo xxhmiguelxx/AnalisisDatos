@@ -1,5 +1,5 @@
 Código de Python
 
-Equipo
--Sofía Martínez Casasola
--Héctor Miguel Camargo Roldán
+Equipo  
+-Sofía Martínez Casasola  
+-Héctor Miguel Camargo Roldán  
